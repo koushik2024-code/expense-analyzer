@@ -1,0 +1,501 @@
+date,description,amount,category
+2024-09-15,D-Mart,355.59,Shopping
+2024-04-12,Metro card recharge,3121.39,Travel
+2024-03-16,Swiggy order,3718.26,Food
+2024-06-24,Electricity bill,1356.34,Utilities
+2024-11-15,Electricity bill,1602.61,Utilities
+2024-03-03,IndiGo flight,4942.85,Travel
+2024-05-01,BookMyShow movie,3017.08,Entertainment
+2024-08-05,BookMyShow movie,1017.11,Entertainment
+2024-08-06,Electricity bill,1823.66,Utilities
+2024-09-25,D-Mart,1663.62,Shopping
+2024-07-26,BookMyShow movie,512.2,Entertainment
+2024-11-16,BookMyShow movie,4666.18,Entertainment
+2024-04-02,Doctor consultation,2043.6,Health
+2024-08-16,Apollo pharmacy,1260.0,Health
+2024-02-06,Swiggy order,3084.22,Food
+2024-04-19,Amazon purchase,828.11,Shopping
+2024-07-30,Spotify premium,3978.22,Entertainment
+2024-03-28,LPG gas cylinder,2236.65,Utilities
+2024-12-30,Doctor consultation,4632.47,Health
+2024-07-13,Uber ride,4008.35,Travel
+2024-02-04,Flipkart order,756.85,Shopping
+2024-01-30,Apollo pharmacy,4039.78,Health
+2024-04-21,Metro card recharge,1926.4,Travel
+2024-06-17,MedPlus medicines,4641.35,Health
+2024-08-25,Ola cab,2769.84,Travel
+2024-09-09,Uber ride,331.15,Travel
+2024-05-21,BookMyShow movie,2670.79,Entertainment
+2024-06-17,Zomato pizza,735.76,Food
+2024-05-02,Electricity bill,1850.41,Utilities
+2024-12-31,IndiGo flight,3310.72,Travel
+2024-04-25,IRCTC train ticket,1547.95,Travel
+2024-04-13,Flipkart order,3933.23,Shopping
+2024-07-06,Water bill,1881.73,Utilities
+2024-09-19,D-Mart,1063.95,Shopping
+2024-02-12,Metro card recharge,1338.83,Travel
+2024-04-02,Flipkart order,1593.07,Shopping
+2024-10-05,Uber ride,4019.97,Travel
+2024-02-28,Metro card recharge,2337.67,Travel
+2024-06-18,Ola cab,1738.82,Travel
+2024-12-23,Reliance Digital,2373.25,Shopping
+2024-01-27,Apollo pharmacy,1878.79,Health
+2024-07-20,LPG gas cylinder,760.7,Utilities
+2024-04-28,Reliance Digital,2888.69,Shopping
+2024-11-23,Amazon purchase,2065.7,Shopping
+2024-10-09,Gym membership,3313.44,Health
+2024-06-07,Steam game,3291.52,Entertainment
+2024-11-18,Uber ride,111.63,Travel
+2024-08-17,BookMyShow movie,2799.76,Entertainment
+2024-10-14,D-Mart,491.52,Shopping
+2024-04-11,Airtel recharge,344.13,Utilities
+2024-09-16,Zomato pizza,2677.1,Food
+2024-04-06,LPG gas cylinder,3011.16,Utilities
+2024-12-16,Gym membership,886.18,Health
+2024-07-14,Zomato pizza,811.44,Food
+2024-02-03,Airtel recharge,160.34,Utilities
+2024-06-17,Water bill,1552.69,Utilities
+2024-09-08,YouTube Premium,3974.36,Entertainment
+2024-07-19,Swiggy order,2311.76,Food
+2024-09-11,Spotify premium,4866.43,Entertainment
+2024-08-02,Dominos,1375.53,Food
+2024-09-29,IndiGo flight,344.69,Travel
+2024-07-24,Broadband bill,4146.54,Utilities
+2024-12-06,Flipkart order,1393.46,Shopping
+2024-12-20,Water bill,4558.21,Utilities
+2024-08-24,BookMyShow movie,2335.89,Entertainment
+2024-10-31,Reliance Digital,4636.12,Shopping
+2024-01-12,Apollo pharmacy,2916.04,Health
+2024-01-22,IndiGo flight,667.62,Travel
+2024-07-07,Amazon purchase,1844.05,Shopping
+2024-06-06,Uber ride,2027.34,Travel
+2024-05-10,Cafe Coffee Day,1061.06,Food
+2024-10-20,Reliance Digital,658.36,Shopping
+2024-10-10,Gym membership,485.18,Health
+2024-03-08,Gym membership,4607.26,Health
+2024-01-21,Netflix subscription,3031.71,Entertainment
+2024-07-22,Swiggy order,1693.43,Food
+2024-10-20,Broadband bill,1253.51,Utilities
+2024-11-21,Flipkart order,3746.83,Shopping
+2024-09-29,Zomato pizza,4382.47,Food
+2024-06-14,Electricity bill,1111.0,Utilities
+2024-12-05,YouTube Premium,2307.36,Entertainment
+2024-01-12,Airtel recharge,904.07,Utilities
+2024-01-18,Steam game,496.15,Entertainment
+2024-05-17,Apollo pharmacy,3133.7,Health
+2024-03-28,Airtel recharge,2474.18,Utilities
+2024-02-23,Swiggy order,174.08,Food
+2024-05-02,Broadband bill,1599.8,Utilities
+2024-06-17,LPG gas cylinder,3306.58,Utilities
+2024-10-19,Gym membership,2228.01,Health
+2024-10-08,Myntra clothes,3196.52,Shopping
+2024-04-17,Doctor consultation,107.04,Health
+2024-03-24,Metro card recharge,4881.35,Travel
+2024-05-18,Gym membership,1762.11,Health
+2024-03-24,Metro card recharge,3109.43,Travel
+2024-01-15,Dominos,939.72,Food
+2024-04-18,Ola cab,2728.79,Travel
+2024-11-18,Uber ride,2544.63,Travel
+2024-09-03,D-Mart,998.21,Shopping
+2024-11-03,Big Bazaar groceries,1813.14,Food
+2024-02-28,IRCTC train ticket,1539.15,Travel
+2024-07-20,Flipkart order,4060.56,Shopping
+2024-04-14,Electricity bill,1910.51,Utilities
+2024-06-01,IndiGo flight,1050.39,Travel
+2024-06-21,Big Bazaar groceries,4483.67,Food
+2024-08-16,Swiggy order,4773.24,Food
+2024-01-08,Airtel recharge,3916.64,Utilities
+2024-10-25,Metro card recharge,942.61,Travel
+2024-04-13,Gym membership,1701.42,Health
+2024-09-25,Steam game,3230.06,Entertainment
+2024-01-13,Flipkart order,4528.83,Shopping
+2024-10-30,Uber ride,219.44,Travel
+2024-07-15,Flipkart order,2998.32,Shopping
+2024-04-08,Reliance Digital,4321.71,Shopping
+2024-08-22,Spotify premium,1824.12,Entertainment
+2024-11-16,Airtel recharge,4796.29,Utilities
+2024-04-02,Flipkart order,4208.02,Shopping
+2024-02-18,IRCTC train ticket,3578.45,Travel
+2024-08-08,Netflix subscription,2955.47,Entertainment
+2024-01-10,YouTube Premium,4879.2,Entertainment
+2024-03-10,IndiGo flight,4376.21,Travel
+2024-06-18,Doctor consultation,1326.61,Health
+2024-12-14,Ola cab,3518.97,Travel
+2024-08-15,Broadband bill,495.31,Utilities
+2024-08-27,Electricity bill,2921.57,Utilities
+2024-02-25,MedPlus medicines,2180.6,Health
+2024-05-05,Apollo pharmacy,189.3,Health
+2024-08-23,Big Bazaar groceries,915.58,Food
+2024-03-07,Zomato pizza,4273.34,Food
+2024-03-28,Netflix subscription,4934.33,Entertainment
+2024-04-25,IRCTC train ticket,1570.04,Travel
+2024-08-31,Apollo pharmacy,3336.88,Health
+2024-05-22,Flipkart order,653.4,Shopping
+2024-08-24,Amazon purchase,370.04,Shopping
+2024-09-16,Cafe Coffee Day,2920.47,Food
+2024-09-25,Big Bazaar groceries,103.67,Food
+2024-11-15,Cafe Coffee Day,1731.27,Food
+2024-11-24,MedPlus medicines,759.9,Health
+2024-11-13,Apollo pharmacy,4617.81,Health
+2024-06-11,Broadband bill,278.35,Utilities
+2024-07-04,Dominos,991.07,Food
+2024-05-21,Metro card recharge,1560.17,Travel
+2024-06-02,MedPlus medicines,400.12,Health
+2024-04-11,BookMyShow movie,4213.81,Entertainment
+2024-10-05,Broadband bill,291.64,Utilities
+2024-05-22,MedPlus medicines,3785.91,Health
+2024-11-08,Water bill,3072.99,Utilities
+2024-01-12,YouTube Premium,149.01,Entertainment
+2024-08-24,Apollo pharmacy,3085.31,Health
+2024-05-01,LPG gas cylinder,1088.85,Utilities
+2024-03-11,Gym membership,1395.68,Health
+2024-10-02,Dominos,4649.74,Food
+2024-08-08,Ola cab,1828.09,Travel
+2024-08-27,Apollo pharmacy,1910.5,Health
+2024-07-08,Cafe Coffee Day,3915.83,Food
+2024-08-29,Spotify premium,2675.31,Entertainment
+2024-09-23,D-Mart,2874.41,Shopping
+2024-05-09,Dominos,4242.33,Food
+2024-03-30,Flipkart order,226.45,Shopping
+2024-11-10,Doctor consultation,4587.02,Health
+2024-09-27,Doctor consultation,3815.42,Health
+2024-04-26,Flipkart order,3063.32,Shopping
+2024-06-16,Steam game,238.52,Entertainment
+2024-09-04,Ola cab,3005.6,Travel
+2024-04-07,Flipkart order,4673.07,Shopping
+2024-04-08,Apollo pharmacy,4829.31,Health
+2024-05-12,Reliance Digital,3141.39,Shopping
+2024-08-02,Swiggy order,3454.01,Food
+2024-05-11,Swiggy order,1664.55,Food
+2024-11-15,Metro card recharge,4659.32,Travel
+2024-05-12,Spotify premium,963.26,Entertainment
+2024-02-17,Gym membership,1355.78,Health
+2024-07-11,Electricity bill,2267.72,Utilities
+2024-09-19,Metro card recharge,228.05,Travel
+2024-12-18,YouTube Premium,3826.1,Entertainment
+2024-02-14,Water bill,3394.7,Utilities
+2024-08-12,IRCTC train ticket,2427.87,Travel
+2024-05-30,Cafe Coffee Day,4547.93,Food
+2024-12-29,Steam game,3805.46,Entertainment
+2024-10-05,IRCTC train ticket,2938.81,Travel
+2024-12-05,Metro card recharge,366.25,Travel
+2024-04-06,Electricity bill,4330.21,Utilities
+2024-07-23,Dominos,613.24,Food
+2024-06-28,Swiggy order,256.33,Food
+2024-11-11,Gym membership,2186.24,Health
+2024-12-29,Electricity bill,1586.23,Utilities
+2024-05-07,Electricity bill,1505.74,Utilities
+2024-07-28,Broadband bill,1808.88,Utilities
+2024-08-21,Electricity bill,942.52,Utilities
+2024-03-25,Metro card recharge,1588.5,Travel
+2024-08-03,Ola cab,2202.9,Travel
+2024-06-18,Water bill,594.81,Utilities
+2024-11-07,Uber ride,3019.76,Travel
+2024-11-11,Apollo pharmacy,685.72,Health
+2024-06-08,BookMyShow movie,1063.1,Entertainment
+2024-08-29,IndiGo flight,2251.72,Travel
+2024-09-05,Metro card recharge,1730.63,Travel
+2024-09-20,Netflix subscription,2984.9,Entertainment
+2024-08-17,Electricity bill,4026.7,Utilities
+2024-04-17,Dominos,3335.61,Food
+2024-03-10,IRCTC train ticket,3036.13,Travel
+2024-11-18,Ola cab,1656.64,Travel
+2024-10-15,Gym membership,1719.44,Health
+2024-04-10,BookMyShow movie,939.56,Entertainment
+2024-09-20,Dominos,2410.38,Food
+2024-01-01,D-Mart,2183.62,Shopping
+2024-10-05,Gym membership,3488.39,Health
+2024-02-10,Airtel recharge,1243.51,Utilities
+2024-09-24,MedPlus medicines,866.8,Health
+2024-10-15,Big Bazaar groceries,4060.39,Food
+2024-09-12,Apollo pharmacy,3097.06,Health
+2024-01-14,Myntra clothes,4043.73,Shopping
+2024-03-07,IndiGo flight,3576.34,Travel
+2024-08-06,YouTube Premium,307.27,Entertainment
+2024-10-31,BookMyShow movie,2404.49,Entertainment
+2024-05-13,YouTube Premium,1489.45,Entertainment
+2024-12-27,Steam game,575.54,Entertainment
+2024-02-17,IndiGo flight,4598.68,Travel
+2024-11-15,BookMyShow movie,1731.36,Entertainment
+2024-09-28,Dominos,4434.42,Food
+2024-07-22,Uber ride,4510.29,Travel
+2024-02-14,Water bill,3286.29,Utilities
+2024-05-14,Water bill,670.7,Utilities
+2024-11-11,Electricity bill,3806.88,Utilities
+2024-04-21,Amazon purchase,2659.57,Shopping
+2024-10-03,Reliance Digital,3618.94,Shopping
+2024-06-17,BookMyShow movie,1036.04,Entertainment
+2024-10-31,D-Mart,2215.25,Shopping
+2024-05-10,Steam game,1600.1,Entertainment
+2024-07-13,Steam game,411.85,Entertainment
+2024-05-25,Steam game,474.72,Entertainment
+2024-08-26,Apollo pharmacy,3223.53,Health
+2024-11-20,Broadband bill,4617.1,Utilities
+2024-07-01,LPG gas cylinder,2631.31,Utilities
+2024-03-24,D-Mart,1786.61,Shopping
+2024-06-27,Flipkart order,4482.13,Shopping
+2024-09-05,Ola cab,253.22,Travel
+2024-07-12,D-Mart,592.34,Shopping
+2024-04-14,Dominos,3418.85,Food
+2024-10-17,LPG gas cylinder,1774.8,Utilities
+2024-02-19,Spotify premium,190.39,Entertainment
+2024-07-20,Broadband bill,3662.57,Utilities
+2024-11-26,LPG gas cylinder,4337.07,Utilities
+2024-09-22,YouTube Premium,3834.47,Entertainment
+2024-06-17,Spotify premium,1394.77,Entertainment
+2024-03-26,MedPlus medicines,1912.92,Health
+2024-05-15,Reliance Digital,677.05,Shopping
+2024-08-17,Netflix subscription,1930.54,Entertainment
+2024-03-08,Zomato pizza,4651.75,Food
+2024-07-11,Swiggy order,1863.21,Food
+2024-05-04,Gym membership,4814.71,Health
+2024-05-07,Spotify premium,4267.37,Entertainment
+2024-07-17,YouTube Premium,1462.44,Entertainment
+2024-09-30,Doctor consultation,2198.71,Health
+2024-01-06,Netflix subscription,3474.8,Entertainment
+2024-12-21,IRCTC train ticket,90.34,Travel
+2024-05-27,Reliance Digital,3557.0,Shopping
+2024-01-13,Electricity bill,2717.0,Utilities
+2024-03-01,Airtel recharge,4021.03,Utilities
+2024-03-13,Doctor consultation,2667.48,Health
+2024-11-23,MedPlus medicines,4132.9,Health
+2024-01-09,Airtel recharge,4510.83,Utilities
+2024-11-19,Amazon purchase,2554.99,Shopping
+2024-11-04,Apollo pharmacy,4585.11,Health
+2024-09-18,IndiGo flight,646.7,Travel
+2024-03-21,YouTube Premium,2384.49,Entertainment
+2024-12-22,Ola cab,2042.45,Travel
+2024-04-03,IRCTC train ticket,3960.22,Travel
+2024-12-29,MedPlus medicines,4413.75,Health
+2024-12-23,Airtel recharge,2233.59,Utilities
+2024-05-18,Flipkart order,4921.87,Shopping
+2024-02-16,Airtel recharge,4873.26,Utilities
+2024-07-20,Uber ride,777.3,Travel
+2024-07-24,Reliance Digital,3184.34,Shopping
+2024-07-09,Swiggy order,1114.25,Food
+2024-03-06,Big Bazaar groceries,4527.4,Food
+2024-09-15,Metro card recharge,4386.72,Travel
+2024-02-08,Gym membership,71.29,Health
+2024-02-18,Apollo pharmacy,2983.9,Health
+2024-08-31,Gym membership,794.35,Health
+2024-04-23,Reliance Digital,877.48,Shopping
+2024-11-14,Reliance Digital,3544.35,Shopping
+2024-02-20,Myntra clothes,4142.66,Shopping
+2024-11-11,Cafe Coffee Day,3669.6,Food
+2024-02-21,Cafe Coffee Day,245.25,Food
+2024-01-05,IRCTC train ticket,3809.29,Travel
+2024-12-28,Doctor consultation,1987.81,Health
+2024-12-09,Doctor consultation,796.29,Health
+2024-12-08,Airtel recharge,1758.61,Utilities
+2024-10-11,Doctor consultation,2324.6,Health
+2024-09-06,Amazon purchase,2689.63,Shopping
+2024-05-18,IndiGo flight,2817.35,Travel
+2024-02-28,Broadband bill,4650.27,Utilities
+2024-08-20,Metro card recharge,740.97,Travel
+2024-07-01,Zomato pizza,544.29,Food
+2024-04-25,LPG gas cylinder,4501.7,Utilities
+2024-01-25,D-Mart,1482.36,Shopping
+2024-07-20,Doctor consultation,478.56,Health
+2024-08-30,Myntra clothes,2500.6,Shopping
+2024-09-24,Myntra clothes,3614.21,Shopping
+2024-03-29,Metro card recharge,1279.67,Travel
+2024-02-01,Dominos,854.27,Food
+2024-04-08,Steam game,4663.77,Entertainment
+2024-01-20,IndiGo flight,1040.26,Travel
+2024-10-31,Gym membership,866.67,Health
+2024-03-15,Metro card recharge,3355.92,Travel
+2024-08-20,Airtel recharge,3215.11,Utilities
+2024-06-08,Steam game,3095.02,Entertainment
+2024-09-30,BookMyShow movie,558.02,Entertainment
+2024-04-23,Big Bazaar groceries,1825.78,Food
+2024-02-23,Big Bazaar groceries,815.86,Food
+2024-01-13,Dominos,494.05,Food
+2024-09-09,Water bill,1640.09,Utilities
+2024-01-04,Apollo pharmacy,4480.88,Health
+2024-01-31,Apollo pharmacy,3496.28,Health
+2024-09-24,Flipkart order,4597.38,Shopping
+2024-09-22,Big Bazaar groceries,118.65,Food
+2024-12-20,Myntra clothes,114.1,Shopping
+2024-12-08,Gym membership,1406.42,Health
+2024-11-22,BookMyShow movie,4140.85,Entertainment
+2024-01-02,Swiggy order,1661.54,Food
+2024-04-20,Gym membership,1281.29,Health
+2024-08-12,Dominos,3819.85,Food
+2024-04-21,IndiGo flight,679.81,Travel
+2024-04-16,Electricity bill,2206.08,Utilities
+2024-02-23,YouTube Premium,2651.53,Entertainment
+2024-06-06,Reliance Digital,1628.22,Shopping
+2024-01-08,Ola cab,1990.05,Travel
+2024-05-08,YouTube Premium,3336.16,Entertainment
+2024-06-01,Cafe Coffee Day,915.29,Food
+2024-07-30,Gym membership,3900.22,Health
+2024-03-26,Flipkart order,3863.9,Shopping
+2024-06-06,Cafe Coffee Day,2900.27,Food
+2024-11-20,Gym membership,2205.22,Health
+2024-10-09,Doctor consultation,190.59,Health
+2024-11-08,Electricity bill,4296.48,Utilities
+2024-12-13,Flipkart order,1780.9,Shopping
+2024-12-30,YouTube Premium,842.67,Entertainment
+2024-12-28,YouTube Premium,3794.39,Entertainment
+2024-08-27,Reliance Digital,592.13,Shopping
+2024-01-24,Broadband bill,3372.93,Utilities
+2024-06-11,Ola cab,1905.1,Travel
+2024-04-01,D-Mart,2834.05,Shopping
+2024-11-03,D-Mart,2428.2,Shopping
+2024-11-15,MedPlus medicines,3206.68,Health
+2024-11-01,Uber ride,4058.42,Travel
+2024-12-12,BookMyShow movie,326.29,Entertainment
+2024-05-31,Flipkart order,748.5,Shopping
+2024-10-01,Netflix subscription,61.17,Entertainment
+2024-09-28,Reliance Digital,1856.53,Shopping
+2024-07-14,Reliance Digital,4094.02,Shopping
+2024-08-02,BookMyShow movie,2673.42,Entertainment
+2024-03-25,Big Bazaar groceries,4173.13,Food
+2024-01-19,Broadband bill,3720.88,Utilities
+2024-04-11,Netflix subscription,3530.38,Entertainment
+2024-02-29,YouTube Premium,2260.39,Entertainment
+2024-08-30,Doctor consultation,1722.88,Health
+2024-03-10,Airtel recharge,3282.28,Utilities
+2024-03-09,Myntra clothes,305.5,Shopping
+2024-02-07,Gym membership,872.63,Health
+2024-04-22,Steam game,4672.6,Entertainment
+2024-11-21,Netflix subscription,3952.17,Entertainment
+2024-05-04,Cafe Coffee Day,477.43,Food
+2024-01-16,Uber ride,1342.92,Travel
+2024-03-01,Doctor consultation,3054.83,Health
+2024-03-18,Cafe Coffee Day,2822.21,Food
+2024-02-26,Dominos,592.3,Food
+2024-01-01,Uber ride,577.98,Travel
+2024-12-11,IndiGo flight,2755.82,Travel
+2024-06-30,Airtel recharge,2402.07,Utilities
+2024-10-06,Reliance Digital,2385.59,Shopping
+2024-07-29,Steam game,947.25,Entertainment
+2024-12-15,YouTube Premium,2415.52,Entertainment
+2024-09-13,Doctor consultation,3249.37,Health
+2024-08-23,Big Bazaar groceries,3662.4,Food
+2024-12-29,Cafe Coffee Day,3780.73,Food
+2024-11-05,Flipkart order,1407.54,Shopping
+2024-12-20,MedPlus medicines,3941.14,Health
+2024-09-21,Dominos,4401.62,Food
+2024-05-26,Broadband bill,3974.47,Utilities
+2024-05-03,LPG gas cylinder,2540.46,Utilities
+2024-04-11,Big Bazaar groceries,937.14,Food
+2024-09-23,YouTube Premium,1801.56,Entertainment
+2024-02-03,BookMyShow movie,1180.47,Entertainment
+2024-10-29,Netflix subscription,275.37,Entertainment
+2024-11-30,Apollo pharmacy,2662.92,Health
+2024-05-03,D-Mart,1002.35,Shopping
+2024-01-11,Apollo pharmacy,3462.01,Health
+2024-05-07,Ola cab,4465.72,Travel
+2024-09-29,Apollo pharmacy,1167.84,Health
+2024-03-24,Metro card recharge,3976.52,Travel
+2024-03-21,Big Bazaar groceries,3831.85,Food
+2024-01-23,Netflix subscription,2984.1,Entertainment
+2024-11-19,Amazon purchase,4483.68,Shopping
+2024-12-30,Cafe Coffee Day,1138.18,Food
+2024-01-25,Spotify premium,2770.6,Entertainment
+2024-05-08,BookMyShow movie,2761.23,Entertainment
+2024-03-12,Apollo pharmacy,1691.05,Health
+2024-03-08,Broadband bill,4109.61,Utilities
+2024-03-30,Cafe Coffee Day,3556.0,Food
+2024-10-10,Electricity bill,1916.72,Utilities
+2024-01-02,Uber ride,1720.81,Travel
+2024-09-13,Electricity bill,4266.25,Utilities
+2024-03-06,Apollo pharmacy,4879.78,Health
+2024-12-09,Amazon purchase,1416.82,Shopping
+2024-05-12,BookMyShow movie,3049.48,Entertainment
+2024-12-12,LPG gas cylinder,4096.9,Utilities
+2024-08-17,IndiGo flight,431.55,Travel
+2024-10-12,Spotify premium,1794.87,Entertainment
+2024-07-31,Uber ride,443.08,Travel
+2024-07-05,Cafe Coffee Day,224.84,Food
+2024-09-16,Big Bazaar groceries,3802.03,Food
+2024-07-08,Apollo pharmacy,3756.26,Health
+2024-10-05,Zomato pizza,2381.54,Food
+2024-06-26,Reliance Digital,3932.63,Shopping
+2024-12-13,Zomato pizza,4905.88,Food
+2024-09-15,Steam game,2786.86,Entertainment
+2024-10-04,IRCTC train ticket,2170.3,Travel
+2024-04-03,Dominos,4418.13,Food
+2024-07-19,Cafe Coffee Day,4044.19,Food
+2024-02-29,Steam game,4184.99,Entertainment
+2024-10-06,Flipkart order,2011.75,Shopping
+2024-04-06,Cafe Coffee Day,604.6,Food
+2024-01-16,LPG gas cylinder,3080.46,Utilities
+2024-10-04,Amazon purchase,1374.19,Shopping
+2024-06-25,Flipkart order,4372.86,Shopping
+2024-09-30,LPG gas cylinder,2296.45,Utilities
+2024-10-15,Gym membership,1325.2,Health
+2024-10-28,Flipkart order,440.02,Shopping
+2024-09-09,Apollo pharmacy,861.93,Health
+2024-04-16,Airtel recharge,4872.06,Utilities
+2024-01-29,Uber ride,4125.73,Travel
+2024-07-16,Big Bazaar groceries,927.05,Food
+2024-10-10,MedPlus medicines,2352.83,Health
+2024-01-27,Cafe Coffee Day,3651.76,Food
+2024-11-29,Steam game,3888.34,Entertainment
+2024-09-28,Ola cab,1353.13,Travel
+2024-05-24,Myntra clothes,3416.0,Shopping
+2024-08-31,D-Mart,2681.31,Shopping
+2024-09-03,YouTube Premium,4489.52,Entertainment
+2024-09-29,Myntra clothes,58.36,Shopping
+2024-11-17,D-Mart,3966.31,Shopping
+2024-09-11,Doctor consultation,2196.38,Health
+2024-04-01,Reliance Digital,2319.76,Shopping
+2024-09-06,Gym membership,1130.89,Health
+2024-07-04,D-Mart,2923.83,Shopping
+2024-06-12,Water bill,4605.15,Utilities
+2024-04-20,Amazon purchase,1352.66,Shopping
+2024-10-23,Airtel recharge,104.13,Utilities
+2024-10-01,Dominos,4763.98,Food
+2024-04-28,Water bill,3561.55,Utilities
+2024-12-29,IRCTC train ticket,707.21,Travel
+2024-06-23,Electricity bill,1400.42,Utilities
+2024-01-29,Spotify premium,2789.36,Entertainment
+2024-08-11,Reliance Digital,2046.51,Shopping
+2024-02-28,Spotify premium,1786.68,Entertainment
+2024-10-15,MedPlus medicines,3489.32,Health
+2024-10-23,Myntra clothes,2175.96,Shopping
+2024-05-16,Water bill,2375.18,Utilities
+2024-08-06,Water bill,4152.95,Utilities
+2024-02-29,Spotify premium,63.83,Entertainment
+2024-03-01,Steam game,1886.36,Entertainment
+2024-07-04,Zomato pizza,4429.31,Food
+2024-12-11,Doctor consultation,3474.51,Health
+2024-02-16,Gym membership,3223.13,Health
+2024-08-03,Reliance Digital,4958.7,Shopping
+2024-06-16,Apollo pharmacy,2502.6,Health
+2024-11-11,Myntra clothes,3821.51,Shopping
+2024-05-03,Netflix subscription,2484.32,Entertainment
+2024-05-21,Dominos,2672.32,Food
+2024-03-31,Dominos,3538.45,Food
+2024-07-29,Metro card recharge,2150.09,Travel
+2024-08-08,Dominos,944.78,Food
+2024-06-09,Broadband bill,754.39,Utilities
+2024-05-11,Swiggy order,3787.43,Food
+2024-03-26,IRCTC train ticket,772.14,Travel
+2024-11-07,Zomato pizza,586.79,Food
+2024-01-30,Reliance Digital,3579.99,Shopping
+2024-01-22,Myntra clothes,4035.66,Shopping
+2024-01-20,IndiGo flight,3031.77,Travel
+2024-10-09,Flipkart order,436.29,Shopping
+2024-11-02,D-Mart,1803.2,Shopping
+2024-03-04,Netflix subscription,4167.7,Entertainment
+2024-07-01,Gym membership,332.68,Health
+2024-04-25,IndiGo flight,1241.6,Travel
+2024-05-14,Flipkart order,4701.02,Shopping
+2024-03-11,YouTube Premium,855.57,Entertainment
+2024-08-20,Doctor consultation,118.81,Health
+2024-10-30,Ola cab,852.32,Travel
+2024-02-03,LPG gas cylinder,2129.15,Utilities
+2024-09-02,Electricity bill,4962.59,Utilities
+2024-06-27,Broadband bill,3651.92,Utilities
+2024-08-26,Broadband bill,320.91,Utilities
+2024-10-12,Zomato pizza,4707.64,Food
+2024-08-18,Apollo pharmacy,1047.72,Health
+2024-10-29,Dominos,2952.06,Food
+2024-12-25,Uber ride,4612.81,Travel
+2024-11-30,Broadband bill,4064.82,Utilities
+2024-05-08,Cafe Coffee Day,963.44,Food
+2024-11-22,Steam game,3691.06,Entertainment
+2024-07-26,LPG gas cylinder,2859.02,Utilities
